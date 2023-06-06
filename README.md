@@ -33,6 +33,9 @@ I'm skilled in Javascript environment focused on the client-side but always supp
 - [Typescript](https://www.typescriptlang.org/)
 - [Angular](https://angular.io/)
 - [Bootstrap](https://getbootstrap.com/)
+- [React](https://react.dev/)
+- [Nexjs](https://nextjs.org/)
+- [Solid](https://www.solidjs.com/)
 
 ## ♟ Back
 
